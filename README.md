@@ -1,2 +1,1 @@
-# chrome-trojan-keylogger
-chrome extension - keylogger trojan base
+# chrome extension - keylogger trojan base
