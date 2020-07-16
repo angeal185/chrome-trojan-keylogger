@@ -2,13 +2,7 @@
   "name": "chrome-trojan-keylogger",
   "version": "1.0.0",
   "description": "chrome extension - keylogger trojan base",
-  "main": "index.js",
-  "dependencies": {
-    "xscript": "^1.0.0"
-  },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "main": "app/js/background.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/angeal185/chrome-trojan-keylogger.git"
